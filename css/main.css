@@ -21,5 +21,7 @@ footer {
 	font-size: 32px;
 	position: fixed;
 	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
 }
 

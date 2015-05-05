@@ -22,3 +22,8 @@ footer {
 	font-size: 24px;
 	text-align: center;
 }
+
+a:mailto {
+	text-decoration: none;
+}
+}

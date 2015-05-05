@@ -23,7 +23,6 @@ footer {
 	text-align: center;
 }
 
-a:mailto {
+a {
 	text-decoration: none;
-}
 }

@@ -6,16 +6,20 @@ body {
 	text-align: center;
 }
 
+/////*****main header (Red Velvet Code)*****/////
 h1 {
 	font-size: 72px;
 	text-align: center;
 	margin-top: 10px;
 }
 
+/////*****snazzy content formatting*****/////
 p {
 	font-size: 32px;
 }
 
+
+/////*****nitty-gritty copyright fun times*****/////
 footer {
 	font-size: 22px;
 }

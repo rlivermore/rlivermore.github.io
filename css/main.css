@@ -2,4 +2,13 @@ body {
 
 	color: darkred;
 	background-color: blanchedalmond;
+	font-family: 'Dawning of a New Day', cursive;
+}
+
+title {
+	font-size: 48px;
+}
+
+p {
+	font-size 14px;
 }

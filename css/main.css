@@ -4,20 +4,7 @@ body {
 	background-color: lightyellow;
 	font-family: 'Dawning of a New Day', cursive;
 	text-align: center;
-	
-}
-
-h1 {
-	font-size: 90px;
-	text-align: center;
-	margin-top: 10px;
-}
-
-p {
-	font-size: 32px;
-}
-
-.gradient-pattern {
+	.gradient-pattern {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
   box-sizing: content-box;
@@ -38,4 +25,16 @@ p {
   background-clip: border-box;
   -webkit-background-size: 53px 60px;
   background-size: 53px 60px;
+}
+	
+}
+
+h1 {
+	font-size: 90px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+p {
+	font-size: 32px;
 }

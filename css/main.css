@@ -19,6 +19,7 @@ p {
 footer {
 	position:fixed;
 	bottom: 10;
+	min-height: 30px;
 	font-size: 24px;
 }
 

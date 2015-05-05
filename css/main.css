@@ -3,10 +3,12 @@ body {
 	color: darkred;
 	background-color: blanchedalmond;
 	font-family: 'Dawning of a New Day', cursive;
+	
 }
 
 title {
 	font-size: 90px;
+	text-align: center;
 }
 
 p {

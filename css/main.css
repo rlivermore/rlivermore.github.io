@@ -1,7 +1,8 @@
 body {
 
 	color: firebrick;
-	background-color: #FDF3E7;
+	background: url("http://img.photobucket.com/albums/v454/Rebekahl/17526787490_04e49e1e7b_o_zpszhlaedzu.jpg");
+	background-size: cover;
 	font-family: 'Dawning of a New Day', cursive;
 	text-align: center;
 	height: 100%;

@@ -19,7 +19,8 @@ p {
 }
 
 footer {
-	font-size: 32px;
+	font-size: 22px;
+	color: FFFFF;
 	position: fixed;
 	bottom: 0;
 	margin-left: auto;

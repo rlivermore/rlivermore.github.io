@@ -1,6 +1,6 @@
 body {
 
-	color: sienna;
+	color: firebrick;
 	background: url("http://img.photobucket.com/albums/v454/Rebekahl/mountain_zpsxaeoyhor.png");
 	background-size: cover;
 	font-family: 'Dawning of a New Day', cursive;
@@ -21,7 +21,7 @@ p {
 
 footer {
 	font-size: 22px;
-	color: #FFFFFF;
+	color: firebrick;
 	position: fixed;
 	bottom: 0;
 	margin-left: auto;

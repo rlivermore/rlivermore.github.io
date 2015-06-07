@@ -33,6 +33,7 @@ a {
 }
 
 li {
-	font-family: Helvetica;
+	font-family: Gill Sans, sans-serif;
+	display: inline;
 }
 }

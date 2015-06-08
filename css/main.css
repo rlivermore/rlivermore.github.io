@@ -33,7 +33,8 @@ a {
 }
 
 li {
-	font-family: 'Questrial', sans-serif;
+	font-family: Verdana; 
+	text-decoration: uppercase;
 	color: black;
 }
 }

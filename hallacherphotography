@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+	
+<link rel="stylesheet" type="text/css" href="css/main.css">
+
+<title> Sarah Hallacher Photography </title> 
+<img src="http://img.photobucket.com/albums/v454/Rebekahl/imageedit_2_5587513655_zpss2inndyv.gif">
+
+</head> 
+
+	<body> 
+
+	
+		<body>
+	<div id="wrapper">
+		<div id="header"></div>
+		<div id="content"></div>
+		<div id="footer"></div>
+	</div>
+</body>
+
+	<footer> 
+	&copy; Sarah Hallacher Photography. Say hello: <a href="sarah@hallacherphotography.com"> &hearts; </a>
+	</footer>
+
+	</body> 
+
+</html> 

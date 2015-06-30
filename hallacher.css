@@ -23,6 +23,12 @@ h2 {
 	margin-top: 0px;
 }
 
+#about {
+	position: fixed;
+	margin-top: 0px;
+	margin-left: 5em;
+}
+}
 p {
 	font-size: 32px;
 }

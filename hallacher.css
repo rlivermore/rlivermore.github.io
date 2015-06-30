@@ -25,8 +25,8 @@ h2 {
 
 #about {
 	position: fixed;
-	margin-top: 0px;
-	margin-left: 20em;
+	padding-top: 0px;
+	padding-right: 5em;
 }
 }
 p {

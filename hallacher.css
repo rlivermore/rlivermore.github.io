@@ -12,6 +12,14 @@ body {
 	float: left;
 }
 
+.about {
+	float: right;
+}
+
+.blog {
+	float: right;
+}
+
 h1 {
 	font-size: 32px;
 	text-align: left;

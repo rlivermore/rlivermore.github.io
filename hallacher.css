@@ -8,8 +8,18 @@ body {
 	height: 100%;
 }
 
+div.header {
+	float: left;
+}
+
 div.bacon {
 	float: left;
+}
+
+div.brunch {
+	float: left;
+	margin: 0 0 10px 10px;
+
 }
 
 

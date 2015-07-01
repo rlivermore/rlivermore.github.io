@@ -30,6 +30,11 @@ body {
 	margin: 0 0 20px 90px;
 }
 
+#yarn {
+	float: left;
+	margin: 30 0 20px 10px;
+}
+
 
 h1 {
 	font-size: 32px;

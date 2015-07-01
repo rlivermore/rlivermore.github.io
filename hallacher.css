@@ -16,18 +16,18 @@ body {
 }
 #bacon {
     float: left;
-    margin: 0 0 20px 90px;
+    margin: 0 0 20px 20px;
 
 }
 
 #brunch {
 	float: center;
-	margin: 0 0 20px 90px;
+	margin: 0 0 20px 20px;
 }
 
 #photobooth {
 	float: right;
-	margin: 0 0 20px 90px;
+	margin: 0 0 20px 20px;
 }
 
 

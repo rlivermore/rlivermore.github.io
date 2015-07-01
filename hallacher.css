@@ -12,7 +12,13 @@ body {
 #header {
  float: left;
  margin: 0 0 10px 10px;
-	
+}
+
+.pictures {
+	width: 700px;
+	margin: auto;
+
+}
 
 h1 {
 	font-size: 32px;

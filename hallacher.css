@@ -35,6 +35,11 @@ body {
 	margin: 200px 0 0px 0px;
 }
 
+#cocoa {
+	float: left;
+	margin: 200px 0 0px 0px;
+}
+
 h1 {
 	font-size: 32px;
 	text-align: left;

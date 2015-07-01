@@ -16,28 +16,28 @@ body {
 }
 #bacon {
     float: left;
-    margin: 0 0 20px 40px;
+    margin: 0 0 40px 60px;
 
 }
 
 #brunch {
 	float: left;
-	margin: 0 0 20px 40px;
+	margin: 0 0 20px 60px;
 }
 
 #photobooth {
 	float: left;
-	margin: 0 0 20px 40px;
+	margin: 0 0 20px 60px;
 }
 
 #yarn {
 	float: left;
-	margin: 200px 0 0px 20px;
+	margin: 200px 0 0px 0px;
 }
 
 #cocoa {
 	float: left;
-	margin: 200px 0 0px 40px;
+	margin: 200px 0 0px 0px;
 }
 
 h1 {

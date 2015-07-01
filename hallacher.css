@@ -32,12 +32,12 @@ body {
 
 #yarn {
 	float: left;
-	margin: 200px 0 0px 0px;
+	margin: 200px 0 0px 20px;
 }
 
 #cocoa {
 	float: left;
-	margin: 200px 0 0px 10px;
+	margin: 200px 0 0px 20px;
 }
 
 h1 {

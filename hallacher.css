@@ -16,15 +16,19 @@ body {
 }
 #bacon {
     float: left;
-    margin: 0 0 10px 10px;
+    margin: 0 0 20px 20px;
 
 }
 
 #brunch {
 	float: left;
-	margin: 0 0 20px 20px;
+	margin: 0 0 30px 30px;
 }
 
+#photobooth {
+	float: left;
+	margin: 0 0 40px 40px;
+}
 
 h1 {
 	font-size: 32px;

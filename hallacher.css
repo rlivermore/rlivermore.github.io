@@ -20,6 +20,10 @@ body {
 
 }
 
+li {
+	list-style: none;
+}
+
 h1 {
 	font-size: 32px;
 	text-align: left;

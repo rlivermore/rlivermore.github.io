@@ -28,6 +28,7 @@ li {
 
 .menu {
 	inline: block;
+	float: right;
 }
 
 h1 {

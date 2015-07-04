@@ -15,7 +15,7 @@ body {
 }
 
 .pictures {
-	width: 700px;
+	width: 900px;
 	margin: auto;
 
 }
@@ -23,7 +23,7 @@ body {
 li {
 	list-style: none;
 	float: left;
-	margin: 30px;
+	margin: 50px;
 }
 
 h1 {

@@ -22,6 +22,7 @@ body {
 
 li {
 	list-style: none;
+	float: left;
 }
 
 h1 {

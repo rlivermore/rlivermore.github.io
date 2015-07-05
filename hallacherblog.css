@@ -32,9 +32,10 @@ margin: auto;
 text-align: left;
 }
 
-h2 {
+h1 {
 	width: 500px;
 	margin: auto;
+	text-align: center;
 }
 
 .pictures {

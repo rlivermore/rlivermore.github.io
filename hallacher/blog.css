@@ -1,0 +1,86 @@
+body {
+
+	color: #000;
+	background: url("http://img.photobucket.com/albums/v454/Rebekahl/hallachbg4_zpsi4ar5ooq.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Yantramanav', serif;
+	text-align: center;
+	height: 100%;
+}
+
+#header {
+ float: left;
+ margin: 0 0 10px 10px;
+}
+
+#blog {
+	
+	font-family: 'Nothing You Could Do', cursive;
+	font-size: 48px;
+	text-align: right;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.pictures {
+	width: 780px;
+	margin: auto;
+
+}
+
+li {
+	list-style: none;
+	float: left;
+	margin: 30px;
+}
+
+.menu {
+	inline: block;
+}
+
+h1 {
+	font-size: 32px;
+	text-align: left;
+	padding: 2em;
+	color: #000;
+	margin-top: 2px;
+}
+
+h2 {
+	font-size: 24px;
+	text-align: left;
+	color: #000;
+	margin-top: 0px;
+}
+
+h3 {
+	padding-right: 2px;
+}
+
+}
+p {
+	font-size: 32px;
+}
+
+footer {
+	font-size: 20px;
+	color: #000;
+	position: fixed;
+	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	color: #000;	
+}
+
+li {
+	font-family: 'Playfair Display', sans-serif; 
+	color: black;
+}
+}

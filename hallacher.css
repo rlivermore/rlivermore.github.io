@@ -15,7 +15,7 @@ body {
 }
 
 .pictures {
-	width: 850px;
+	width: 900px;
 	margin: auto;
 
 }
@@ -23,7 +23,7 @@ body {
 li {
 	list-style: none;
 	float: left;
-	margin: 40px;
+	margin: 100px;
 }
 
 .menu {

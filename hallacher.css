@@ -15,9 +15,12 @@ body {
 }
 
 #blog {
-	float: left;
-	margin: 0 0 400px 50px;
+	
+	font-family: 'Nothing You Could Do', sans-serif;
+	font-size: 32px;
+	text-align: right;
 }
+
 
 .pictures {
 	width: 780px;

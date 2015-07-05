@@ -17,11 +17,14 @@ body {
 #blog {
 	
 	font-family: 'Nothing You Could Do', cursive;
-	font-size: 56px;
+	font-size: 48px;
 	text-align: right;
 	text-decoration: none;
 }
 
+a {
+	text-decoration: none;
+}
 
 .pictures {
 	width: 780px;

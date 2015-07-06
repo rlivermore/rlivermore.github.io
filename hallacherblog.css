@@ -28,12 +28,12 @@ a {
 
 p {
 width: 500px;	
-height: 400px;
 margin: auto;
 text-align: left;
 }
 
 h1 {
+	width: 500px;
 	margin: auto;
 	text-align: center;
 }

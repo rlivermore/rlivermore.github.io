@@ -4,6 +4,7 @@ body {
 	background: url("http://img.photobucket.com/albums/v454/Rebekahl/hallachbg4_zpsi4ar5ooq.png");
 	background-size: cover;
 	background-repeat: no-repeat;
+	text-align: center;
 	font-family: 'Yantramanav', serif;
 	height: 100%;
 }
